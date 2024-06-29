@@ -1,5 +1,5 @@
-elements.test={
-  color:"#FF00FF",
-  category:"other",
+elements.Diorine={
+  color:"#7a7a7a",
+  category:"Solid",
   state:"solid"
   }
